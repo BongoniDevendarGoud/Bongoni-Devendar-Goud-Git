@@ -1,38 +1,39 @@
 <div align="center">
 
-# 👋 Hi, I'm Bongoni Devendar Goud
+# Hi 👋, I'm Bongoni Devendar Goud
 
-### 🚀 Aspiring Data Engineer | Analytics Engineer | Microsoft Fabric Learner
+### 🚀 Aspiring Data Engineer | Analytics Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Aspiring+Data+Engineer;Microsoft+Fabric+Learner;Azure+Data+Engineering;Analytics+Engineering;Power+BI+Developer;PySpark+Developer;SQL+Enthusiast;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Microsoft+Fabric+Learner;Azure+Data+Engineering;Analytics+Engineering;Power+BI;PySpark;SQL;Always+Learning+🚀"/>
 
 </div>
 
 ---
 
-# 💻 About Me
+# 💫 About Me
 
-🎓 **B.Tech Computer Science Student**
+🎓 B.Tech Computer Science Student at **SR University**
 
-☁ Passionate about designing scalable Data Engineering and Analytics solutions using **Microsoft Azure** and **Microsoft Fabric**.
-
-🌱 Currently learning:
+🌱 Currently Learning
 
 - Microsoft Fabric Data Engineering
 - Microsoft Fabric Analytics Engineering
 - Azure Data Engineering
 - PySpark
 - Power BI
-- Data Warehousing
-- Lakehouse Architecture
+- SQL
 
-🚀 My goal is to become a skilled **Data Engineer** capable of building modern cloud-based data platforms.
+💡 Interested In
+
+- Data Engineering
+- Analytics Engineering
+- Cloud Technologies
+- Business Intelligence
+- Big Data
 
 ---
 
 # 🚀 Current Focus
-
-✔ End-to-End Data Engineering Projects
 
 ✔ Microsoft Fabric
 
@@ -40,44 +41,347 @@
 
 ✔ Azure Synapse Analytics
 
-✔ Power BI Dashboards
+✔ Power BI
 
-✔ ETL / ELT Pipelines
+✔ ETL / ELT
 
-✔ Analytics Engineering
+✔ PySpark
+
+✔ SQL
 
 ---
 
-# 🌍 Connect With Me
+# 📚 Learning Journey
 
-<p align="left">
-
-<a href="mailto:goudd461@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<!-- Replace with your actual LinkedIn profile -->
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+| Technology | Status |
+|------------|--------|
+| Python | ✅ |
+| SQL | ✅ |
+| Power BI | ✅ |
+| Azure Data Factory | ✅ |
+| Azure Synapse | ✅ |
+| Microsoft Fabric | 🚀 Learning |
+| Analytics Engineering | 🚀 Learning |
+| PySpark | 🚀 Learning |
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Microsoft Fabric
-- ✅ Azure Data Factory
-- ✅ Azure Synapse Analytics
-- ✅ Power BI
-- ✅ PySpark
-- 🎯 DP-203 (Azure Data Engineer)
-- 🎯 DP-600 (Fabric Analytics Engineer)
-- 🎯 PL-300 (Power BI Data Analyst)
+- Build 15+ Data Engineering Projects
+- Complete Microsoft Fabric
+- Master Azure Data Factory
+- Learn Azure Synapse Analytics
+- Build End-to-End ETL Pipelines
+- Learn Advanced PySpark
+- Prepare for DP-203
+- Prepare for DP-600
+- Prepare for PL-300
 
 ---
 
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+</p>
+
+---
+
+## ☁️ Microsoft Azure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure" height="45"/>
+</p>
+
+✔ Azure Data Factory
+
+✔ Azure Synapse Analytics
+
+✔ Azure SQL Database
+
+✔ Azure Data Lake Storage Gen2
+
+✔ Azure Storage Account
+
+✔ Azure Monitor
+
+✔ Azure Key Vault
+
+---
+
+## 🔥 Microsoft Fabric
+
+<table>
+<tr>
+<td>✅ OneLake</td>
+<td>✅ Lakehouse</td>
+<td>✅ Warehouse</td>
+</tr>
+
+<tr>
+<td>✅ Data Factory</td>
+<td>✅ Spark Notebooks</td>
+<td>✅ Data Pipelines</td>
+</tr>
+
+<tr>
+<td>✅ Dataflow Gen2</td>
+<td>✅ Power BI</td>
+<td>✅ Semantic Models</td>
+</tr>
+
+<tr>
+<td>🚀 Deployment Pipelines</td>
+<td>🚀 Real-Time Analytics</td>
+<td>🚀 Event Streams</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Data Engineering
+
+- ETL
+- ELT
+- Data Warehousing
+- Data Lakes
+- Delta Lake
+- Medallion Architecture
+- Star Schema
+- Snowflake Schema
+- Data Modeling
+
+---
+
+## 📊 Big Data
+
+- Apache Spark
+
+- PySpark
+
+- Delta Lake
+
+- Parquet
+
+- CSV
+
+- JSON
+
+---
+
+## 📈 Analytics Engineering
+
+✔ Power BI
+
+✔ Power Query
+
+✔ DAX
+
+✔ KPI Reporting
+
+✔ Dashboard Development
+
+✔ Data Visualization
+
+✔ Business Intelligence
+
+---
+
+## 🛠 Tools
+
+| Tool | Status |
+|------|--------|
+| Microsoft Fabric | ⭐⭐⭐⭐⭐ |
+| Azure Portal | ⭐⭐⭐⭐ |
+| VS Code | ⭐⭐⭐⭐⭐ |
+| Git | ⭐⭐⭐⭐ |
+| GitHub | ⭐⭐⭐⭐ |
+| Jupyter Notebook | ⭐⭐⭐⭐⭐ |
+| SQL Server | ⭐⭐⭐⭐ |
+
+---
+
+## 🚀 Currently Learning
+
+```text
+███████████████░░░░░ 75%  Microsoft Fabric
+
+██████████████░░░░░░ 70%  Analytics Engineering
+
+███████████████░░░░░ 75%  Azure Data Engineering
+
+████████████████░░░░ 80%  Power BI
+
+██████████████░░░░░░ 70%  PySpark
+
+█████████████████░░░ 85%  SQL
+```
+
+---
+
+## 🎯 Learning Roadmap
+
+```text
+✅ Python
+
+        ↓
+
+✅ SQL
+
+        ↓
+
+✅ Power BI
+
+        ↓
+
+✅ Azure Data Factory
+
+        ↓
+
+✅ Azure Synapse Analytics
+
+        ↓
+
+🚀 Microsoft Fabric
+
+        ↓
+
+🚀 Analytics Engineering
+
+        ↓
+
+🎯 DP-600
+
+        ↓
+
+🎯 DP-203
+
+        ↓
+
+🎯 Databricks
+
+        ↓
+
+🎯 Azure DevOps
+```
+
+# 📂 Featured Repositories
+
+⭐ Microsoft Fabric Data Engineering
+
+⭐ Azure Data Factory ETL
+
+⭐ Azure Synapse Analytics
+
+⭐ Power BI Dashboard
+
+⭐ PySpark Projects
+
+⭐ SQL Projects
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **goudd461@gmail.com**
+
+🌍 GitHub: **https://github.com/BongoniDevendarGoud**
+
+---
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BongoniDevendarGoud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BongoniDevendarGoud&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BongoniDevendarGoud&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BongoniDevendarGoud&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BongoniDevendarGoud&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=BongoniDevendarGoud&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BongoniDevendarGoud&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Productivity Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BongoniDevendarGoud&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BongoniDevendarGoud&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BongoniDevendarGoud&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BongoniDevendarGoud&theme=tokyonight"/>
+
+</div>
 # 💡 Quote
 
-> **"Transforming raw data into actionable insights through modern Data Engineering and Analytics."**
+> "Turning raw data into meaningful insights through modern Data Engineering."
