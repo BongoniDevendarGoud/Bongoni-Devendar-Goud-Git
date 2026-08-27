@@ -60,7 +60,7 @@
 | Power BI | ✅ |
 | Azure Data Factory | ✅ |
 | Azure Synapse | ✅ |
-| Microsoft Fabric | 🚀 Learning |
+| Microsoft Fabric | ✅ |
 | Analytics Engineering | 🚀 Learning |
 | PySpark | 🚀 Learning |
 
@@ -295,35 +295,5 @@
 🌍 GitHub: **https://github.com/BongoniDevendarGoud**
 
 ---
-# 📊 GitHub Dashboard
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BongoniDevendarGoud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BongoniDevendarGoud&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BongoniDevendarGoud&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BongoniDevendarGoud&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
 
 > "Turning raw data into meaningful insights through modern Data Engineering."
