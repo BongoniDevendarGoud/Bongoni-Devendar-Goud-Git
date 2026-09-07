@@ -140,7 +140,7 @@
 <tr>
 <td>🚀 Deployment Pipelines</td>
 <td>🚀 Real-Time Analytics</td>
-<td>🚀 Event Streams</td>
+<td>✅Event Streams</td>
 </tr>
 </table>
 
