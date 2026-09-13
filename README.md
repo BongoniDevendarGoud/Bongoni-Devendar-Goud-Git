@@ -26,11 +26,8 @@
 💡 Interested In
 
 - Data Engineering
-- Analytics Engineering
-- Cloud Technologies
-- Business Intelligence
 - Big Data
-
+- Data Related Fields
 ---
 
 # 🚀 Current Focus
