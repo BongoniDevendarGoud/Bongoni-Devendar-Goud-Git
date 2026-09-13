@@ -250,11 +250,11 @@
 
         ↓
 
-🚀 DP-600
-
+🚀 DP-750
         ↓
 
-🎯 DP-750
+🎯 DP-600
+
 
         ↓
 
@@ -285,6 +285,8 @@
 📧 Email: **goudd461@gmail.com**
 
 🌍 GitHub: **https://github.com/BongoniDevendarGoud**
+
+   Linkedin: **https://www.linkedin.com/in/bongoni-devendar-goud/**
 
 ---
 
