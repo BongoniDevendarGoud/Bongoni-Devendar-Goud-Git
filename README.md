@@ -74,9 +74,9 @@
 - Learn Azure Synapse Analytics
 - Build End-to-End ETL Pipelines
 - Learn Advanced PySpark
-- Prepare for DP-203
+- Prepare for DP-203(Retired)
 - Prepare for DP-600
-- Prepare for PL-300
+- Prepare for Dp-750
 
 ---
 
