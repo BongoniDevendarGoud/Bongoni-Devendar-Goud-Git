@@ -249,15 +249,11 @@
 
         ↓
 
-🚀 Microsoft Fabric
+✅ Microsoft Fabric
 
         ↓
 
-🚀 Analytics Engineering
-
-        ↓
-
-🎯 DP-600
+🚀 DP-600
 
         ↓
 
@@ -269,7 +265,6 @@
 
         ↓
 
-🎯 Azure DevOps
 ```
 
 # 📂 Featured Repositories
