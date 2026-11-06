@@ -17,8 +17,7 @@
 🌱 Currently Learning
 
 - Microsoft Fabric Data Engineering
-- Microsoft Fabric Analytics Engineering
-- Azure Data Engineering
+- Azure Databricks Data Engineering
 - PySpark
 - Power BI
 - SQL
@@ -58,7 +57,6 @@
 | Azure Data Factory | ✅ |
 | Azure Synapse | ✅ |
 | Microsoft Fabric | ✅ |
-| Analytics Engineering | 🚀 Learning |
 | PySpark | 🚀 Learning |
 
 ---
@@ -71,8 +69,6 @@
 - Learn Azure Synapse Analytics
 - Build End-to-End ETL Pipelines
 - Learn Advanced PySpark
-- Prepare for DP-203(Retired)
-- Prepare for DP-600
 - Prepare for Dp-750
 
 ---
@@ -251,10 +247,6 @@
         ↓
 
 🚀 DP-750
-
-        ↓
-
-🎯 DP-600
 
 
         ↓
